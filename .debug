@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="com.remotetest.panel">
+        <HostList>
+            <Host Name="ILST" Port="4472" />
+            <Host Name="AEFT" Port="4474" />
+        </HostList>
+    </Extension>
+    <Extension Id="com.remotetest.modal">
+        <HostList>
+            <Host Name="ILST" Port="4473" />
+            <Host Name="AEFT" Port="4475" />
+        </HostList>
+    </Extension>
+</ExtensionList>
